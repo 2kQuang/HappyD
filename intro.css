@@ -20,6 +20,7 @@ body{
     height: 100%;
     position: relative;
     overflow: hidden;
+    max-height: 710px;
 }
 .box-slider_img1{
     width: 100%;
